@@ -1,5 +1,6 @@
 # AppleScript
 AppleScript in Mac
+
 1.OpenTerminal 
 Check your windows and open a new Terminal window
 Saying the message
